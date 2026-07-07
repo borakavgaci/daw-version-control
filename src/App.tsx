@@ -1,7 +1,5 @@
-import { ProjectsPage } from "./pages/ProjectsPage";
-
 function App() {
-  return <ProjectsPage />;
+  return null;
 }
 
 export default App;
